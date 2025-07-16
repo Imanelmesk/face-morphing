@@ -2,16 +2,6 @@
 
 This project demonstrates how to morph one face into another using facial landmark detection and image warping techniques. The final result is a smooth transition from one image (Jennie) to another (Rihanna).
 
----
-
-## 🖼️ Example
-
-<p align="center">
-  <img src="output/morphing_example.gif" alt="Morphing Example" width="500"/>
-</p>
-
----
-
 ## 📁 Project Structure
 
 ````bash
