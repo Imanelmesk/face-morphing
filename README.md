@@ -14,6 +14,7 @@ face-morphing/
 ├── output/                    # Generated intermediate frames and final result
 └── README.md
 
+
 ## 🚀 How to Run
 
 ### 1. Install dependencies
